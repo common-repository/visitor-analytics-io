@@ -1,0 +1,16 @@
+{
+	"integration_api": {
+		"NOT_FOUND_USER": "An error has occurred, please contact support",
+		"INVALID_DATA": "Provided data is not valid.",
+		"ALREADY_EXISTING_USER": "An account already exists with that email.",
+		"AUTHENTICATION_BAD_CREDENTIALS": "Your email or password was incorrect. Please try again.",
+		"AUTHENTICATION_USER_NOT_FOUND": "Your email or password was incorrect. Please try again.",
+		"AUTHENTICATION_USER_PENDING": "You did not verify your e-mail in the first 10 days after registration.Please check your inbox and do so, in order to continue</br><p class='resend-conmail'><a id='resend-conmail' href='https://app.visitor-analytics.io/login'>Or, click here to go to our standalone Login page, and try to login there, so that you have the possibility to Resend the confirmation e-mail.</a><p>",
+		"AUTHENTICATION_JWT_TOKEN_ENCODE": "An error has occurred, please contact support",
+		"AUTHENTICATION_INVALID_JWT_TOKEN": "An error has occurred, please contact support",
+		"NOT_FOUND_WEBSITE": "An error has occurred, please contact support",
+		"MONGO_WEBSITE_NOT_SYNCED": "An error has occurred, please contact support.",
+		"ALREADY_USED_FREE_TRIAL": "An error has occurred, please contact support",
+		"WEBSITE_NOT_ACTIVATED": "An error has occurred, please contact support"
+	}
+}
